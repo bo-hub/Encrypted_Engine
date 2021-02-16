@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <openssl/aes.h>
 
-
 int main(int, char**) {
     unsigned char *key=(unsigned char *)"012345678901234";
     unsigned char *text=(unsigned char *)"abcdefghijklmno";
