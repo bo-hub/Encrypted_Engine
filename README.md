@@ -1,4 +1,4 @@
-# Encrytped Engine
+# Encryption Engine
 
 This is a demo project for recording the implementation of Encryption in C/C++.
 
